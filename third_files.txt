@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 
+=======
+This is the third file in this repository!!!
+>>>>>>> 6af13f81a788dded9704f3e665e6875b24544b9c
